@@ -38,7 +38,7 @@ This project is for beginners, but contributions are welcome! Feel free to fork 
 
 ## License
 
-This project is open-source and available under the (Specify License, e.g., MIT) License.
+This project is open-source.
 
 ## Author
 
